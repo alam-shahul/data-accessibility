@@ -1,18 +1,16 @@
 {
   "files": {
-    "main.css": "/data-accessibility/static/css/main.bb239dd3.css",
-    "main.js": "/data-accessibility/static/js/main.9ec7869c.js",
+    "main.css": "/data-accessibility/static/css/main.4bc9bfb9.css",
+    "main.js": "/data-accessibility/static/js/main.2d797688.js",
     "static/js/787.e2cbd315.chunk.js": "/data-accessibility/static/js/787.e2cbd315.chunk.js",
     "static/media/NewRodinDB.otf": "/data-accessibility/static/media/NewRodinDB.1f53bbd70b443aaf20da.otf",
-    "static/media/goldfish.png": "/data-accessibility/static/media/goldfish.9478f430b8c2843c0016.png",
-    "static/media/cute_bunny.jpg": "/data-accessibility/static/media/cute_bunny.0555cb51fc593c6f9131.jpg",
     "index.html": "/data-accessibility/index.html",
-    "main.bb239dd3.css.map": "/data-accessibility/static/css/main.bb239dd3.css.map",
-    "main.9ec7869c.js.map": "/data-accessibility/static/js/main.9ec7869c.js.map",
+    "main.4bc9bfb9.css.map": "/data-accessibility/static/css/main.4bc9bfb9.css.map",
+    "main.2d797688.js.map": "/data-accessibility/static/js/main.2d797688.js.map",
     "787.e2cbd315.chunk.js.map": "/data-accessibility/static/js/787.e2cbd315.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bb239dd3.css",
-    "static/js/main.9ec7869c.js"
+    "static/css/main.4bc9bfb9.css",
+    "static/js/main.2d797688.js"
   ]
 }
