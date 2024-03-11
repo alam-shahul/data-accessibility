@@ -1,7 +1,4 @@
 .container {
-    display: flex;
-    justify-content: flex-start;
-    flex-direction: row;
     text-align: center;
     font-family: 'Verdana';
 }
