@@ -1,0 +1,69 @@
+.container {
+    display: flex;
+    justify-content: flex-start;
+    flex-direction: row;
+    text-align: center;
+    font-family: 'Verdana';
+}
+.top_right{
+  position: absolute;
+  right: 10px;
+  top: 10px;
+}
+.timer {
+  display: inline-block;
+  border: 2px solid red;
+  padding: 2px;
+}
+.timer_time {
+  color: red;
+}
+.visualization{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.visualization-container {
+    width: 100%;
+    padding: 10px;
+}
+
+.visually-hidden {
+      position: absolute;
+	position: absolute !important;
+	width: 1px !important;
+	height: 1px !important;
+	padding: 0 !important;
+	margin: -1px !important;
+	overflow: hidden !important;
+	clip: rect(0,0,0,0) !important;
+	white-space: nowrap !important;
+	border: 0 !important;
+}
+
+.accessible-data-text {
+  padding: 0 10px;
+  text-align: left;
+}
+
+.visualization-header {
+  font-family: New Rodin DB;
+  font-size: 2em;
+}
+
+@font-face {
+  font-family: 'New Rodin DB';
+    src: local('NewRodin DB'), url(./NewRodinDB.otf) format('opentype');
+}
+
+.bold {
+  font-weight: bold;
+}
+a, a:-webkit-any-link {
+  text-decoration: none;
+  color: inherit;
+}
+
+.accessible-data-description {
+  max-width: 500px;
+}
